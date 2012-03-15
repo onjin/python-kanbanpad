@@ -1,0 +1,10 @@
+*~
+*.py[co]
+.*.sw[po]
+*.egg-info
+.coverage
+.noseids
+.tox/
+dist/
+doc/.build/
+build/
