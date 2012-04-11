@@ -4,7 +4,9 @@ kanbanpad - kanbanpad.com API v1 library for Python.
 
 :Authors:
     Marek Wywiał (onjinx@gmail.com)
-:Version: 0.1.0
+:Version: 0.1.0-alpha
+
+.. image:: https://secure.travis-ci.org/onjin/python-kanbanpad.png?branch=master
 
 This is a Python library implementing methods of `kanbanpad API`_.
 
