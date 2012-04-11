@@ -6,5 +6,5 @@
 .noseids
 .tox/
 dist/
-doc/.build/
 build/
+doc/build
